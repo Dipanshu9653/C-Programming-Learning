@@ -12,6 +12,7 @@ int main() {
 printf("Enter name, roll_no., and marks: ");
 scanf("%s %d %f", s.name, &s.roll_no, &s.marks);
 
+printf("DEBUG: Marks read = %.2f\n", s.marks);
 fptr = fopen("data.txt", "a");
 if (fptr == NULL) {
     printf("Error opening file!");
