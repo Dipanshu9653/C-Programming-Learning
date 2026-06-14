@@ -1,7 +1,8 @@
 Student Management System in C 🎓
-
 ​A console-based project built in C that demonstrates the power of File Handling to manage student records efficiently.
+
 ​🚀 Key Features
+
 ​Add Student: Easily store new student details, including Name, Roll Number, and Marks.
 ​Display All Records: View a comprehensive list of all stored students directly from the data file.
 ​Search Student: Quickly find specific student information by entering their unique Roll Number.
