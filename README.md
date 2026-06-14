@@ -1,5 +1,7 @@
 Student Management System in C 🎓
+
 ​A console-based project built in C that demonstrates the power of File Handling to manage student records efficiently.
+
 
 ​🚀 Key Features
 
